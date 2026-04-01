@@ -80,5 +80,5 @@ This policy may be updated from time to time. When changes are made, the "Last u
 
 For any questions about this privacy policy, please reach out at:
 
-**Email:** support@lexium.app *(replace with your actual support email)*  
+**Email:** lexium.support@gmail.com
 **Developer:** Samuel Drackett
